@@ -7,6 +7,11 @@ The goal is to transform structured retail data into actionable insights through
 
 ---
 
+Video Preview:
+https://drive.google.com/file/d/1sHhhVdNdje1cgvVQM7OCWQWAEKWQpmVw/view?usp=sharing
+
+---
+
 ## Business Objectives
 - Monitor sales and profitability
 - Identify top-performing products and regions
