@@ -6,9 +6,10 @@ This project demonstrates an end-to-end retail sales analytics solution using Sn
 The goal is to transform structured retail data into actionable insights through interactive dashboards.
 
 
-
+---
 Video Preview:
 https://drive.google.com/file/d/1sHhhVdNdje1cgvVQM7OCWQWAEKWQpmVw/view?usp=sharing
+
 
 
 
